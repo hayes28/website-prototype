@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+#quiz label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+#submit {
+    display: block;
+    margin: 1rem auto;
+}
+
+#results {
+    margin-top: 1rem;
+    text-align: center;
+}
